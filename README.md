@@ -1,6 +1,6 @@
 # Air Quality and Health Risk Prediction
 
-**WGU D683 · Implementing and Testing AI Solutions**
+**WGU D682 · AI Optimization for Computer Scientists · Task 1**
 
 Predicts air pollution (PM2.5), health risk score and severity score from city environmental data. One command trains and tests a model for each target and saves all the evidence.
 
